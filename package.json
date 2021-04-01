@@ -9,7 +9,10 @@
   },
   "dependencies": {
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "react-color": "^2.19.3",
+    "tinycolor2": "^1.4.2",
+    "prop-types": "^15.7.2"
   },
   "devDependencies": {
     "@miaoxing/dev": "^6.3.4"
