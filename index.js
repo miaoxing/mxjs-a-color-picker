@@ -28,12 +28,13 @@ class ColorPicker extends React.Component {
 
   render() {
     const {value, onChange, ...props} = this.props;
+    const isTransparent = !value || tinyColor(value).getAlpha() === 0;
 
     const styles = {
       color: {
         height: '22px',
         borderRadius: '2px',
-        background: value,
+        background: isTransparent ? 'url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAMUlEQVQ4T2NkYGAQYcAP3uCTZhw1gGGYhAGBZIA/nYDCgBDAm9BGDWAAJyRCgLaBCAAgXwixzAS0pgAAAABJRU5ErkJggg==)' : value,
         boxShadow: value === '#ffffff' ? '0 0 0 1px rgba(0,0,0,.1)' : null,
       },
       swatch: {
