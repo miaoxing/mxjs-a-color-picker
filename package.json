@@ -22,8 +22,6 @@
   },
   "devDependencies": {
     "@miaoxing/dev": "^6.4.0",
-    "core-js": "^3.6.5",
-    "regenerator-runtime": "^0.13.5",
     "@testing-library/react": "^11.2.6"
   },
   "ciDependencies": {

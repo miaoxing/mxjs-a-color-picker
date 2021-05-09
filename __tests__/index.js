@@ -1,6 +1,3 @@
-import 'core-js/stable';
-import 'regenerator-runtime/runtime';
-
 import React from 'react';
 import ColorPicker from '..';
 import {render} from '@testing-library/react';
