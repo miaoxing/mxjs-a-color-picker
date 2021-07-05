@@ -1,9 +1,9 @@
-import React from 'react';
+import { Component } from 'react';
 import {SketchPicker} from 'react-color';
 import tinyColor from 'tinycolor2';
 import PropTypes from 'prop-types';
 
-class ColorPicker extends React.Component {
+class ColorPicker extends Component {
   static propTypes = {
     value: PropTypes.string,
     onChange: PropTypes.func,
