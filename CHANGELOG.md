@@ -1,3 +1,23 @@
+# [0.2.0](https://github.com/miaoxing/mxjs-a-color-picker/compare/v0.1.2...v0.2.0) (2021-10-28)
+
+
+### Features
+
+* `react` 依赖移到 `peerDependencies` 中，开发依赖使用 `react` 17 ([67b4f71](https://github.com/miaoxing/mxjs-a-color-picker/commit/67b4f71d4526241e15e5b405e1a9562d128fd6a2))
+
+
+### BREAKING CHANGES
+
+* `react` 依赖移到 `peerDependencies` 中，开发依赖使用 `react` 17
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `7.0.1` to `8.0.0`
+
 ## [0.1.2](https://github.com/miaoxing/mxjs-a-color-picker/compare/v0.1.1...v0.1.2) (2021-05-12)
 
 
