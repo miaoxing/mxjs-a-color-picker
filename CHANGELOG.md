@@ -1,3 +1,18 @@
+# [1.0.0](https://github.com/miaoxing/mxjs-a-color-picker/compare/v0.2.3...v1.0.0) (2022-07-01)
+
+
+### Features
+
+* 发布 1.0.0 [release 1.0.0] ([9d2fd07](https://github.com/miaoxing/mxjs-a-color-picker/commit/9d2fd074984980a788f312dac2553a9a182bd4a8))
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `8.1.1` to `8.1.2`
+
 ## [0.2.3](https://github.com/miaoxing/mxjs-a-color-picker/compare/v0.2.2...v0.2.3) (2022-06-01)
 
 
