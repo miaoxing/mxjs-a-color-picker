@@ -1,6 +1,6 @@
 {
   "name": "@mxjs/a-color-picker",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "main": "index.js",
   "license": "MIT",
   "publishConfig": {
@@ -19,7 +19,7 @@
     "prop-types": "^15.7.2"
   },
   "devDependencies": {
-    "@miaoxing/dev": "^9.0.0",
+    "@miaoxing/dev": "^9.1.0",
     "@testing-library/react": "^11.2.6",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
