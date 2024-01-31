@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/miaoxing/mxjs-a-color-picker/compare/v1.0.8...v1.1.0) (2024-01-31)
+
+
+### Features
+
+* 更新 `react` 支持 18 ([7a3ddc8](https://github.com/miaoxing/mxjs-a-color-picker/commit/7a3ddc8085fbc74c3e3398d79d754fbae4aef7a5))
+
 ## [1.0.8](https://github.com/miaoxing/mxjs-a-color-picker/compare/v1.0.7...v1.0.8) (2024-01-08)
 
 
