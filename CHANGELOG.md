@@ -1,3 +1,18 @@
+## [1.1.2](https://github.com/miaoxing/mxjs-a-color-picker/compare/v1.1.1...v1.1.2) (2024-07-31)
+
+
+### Bug Fixes
+
+* 更改入口文件，解决 vite "Failed to resolve entry for package" 问题 ([50c9c59](https://github.com/miaoxing/mxjs-a-color-picker/commit/50c9c5980bc120bfbd03a1ac08c9b4c5cff249de))
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `9.1.1` to `9.1.2`
+
 ## [1.1.1](https://github.com/miaoxing/mxjs-a-color-picker/compare/v1.1.0...v1.1.1) (2024-03-31)
 
 
